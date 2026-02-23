@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-👋 Hi, I’m Tetlanyo, a second year Software Engineering student at WeThinkCode_. <br/>
+👋 Hi, I’m Tetlanyo, a Software Engineer graduate. <br/>
 💻 I’m passionate about tech and building creative, user-friendly, and efficient software solutions. <br/>
 🌱 I’m currently learning software engineering and improving my problem-solving skills. <br/>
 🎯 My goal is to become a skilled software engineer who uses technology to make everyday life easier. <br/>
