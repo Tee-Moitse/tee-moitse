@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Tetlanyo</h1>
-<h3 align="center">An aspiring software engineer</h3>
+<h1 align="center">Hi, I'm Tetlanyo</h1>
+<h3 align="center">Software Engineer graduate| An aspiring software engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 👋 Hi, I’m Tetlanyo, a Software Engineer graduate. <br/>
 💻 I’m passionate about tech and building creative, user-friendly, and efficient software solutions. <br/>
-🌱 I’m currently learning software engineering and improving my problem-solving skills. <br/>
-🎯 My goal is to become a skilled software engineer who uses technology to make everyday life easier. <br/>
+🌱 I’m currently upskilling my softwaredevelopment skills and exploring some of my tech interests such as cloud and frontend. <br/>
+🎯 My goal is to become a skilled software engineer who uses technology to come up with innovative ideas and creative and convenient projects. <br/>
 💬 I enjoy learning new tools and technologies and collaborating on open-source projects. <br/>
 
 <p align="left">
